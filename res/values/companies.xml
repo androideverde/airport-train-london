@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DLR_company">Docklands Light Railway (DLR)</string>
+    <string name="DLR_desc"><![CDATA[<p>The Docklands Light Railway is an overground system connecting East London to the London Underground network.</p><p>The London City Airport DLR station is connected to the airport Terminal making transport to and from the airport fast and convenient. The airport is located in Zone 3. Oyster cards and tickets can be purchased at the DLR counter adjacent to the airport Terminal.</p><p>The DLR departs London City Airport every 8 to 15 minutes, with journey times of less than 7 minutes to Canning Town or Woolwich Arsenal, 22 minutes to Bank and 17 minutes to Stratford International (for the Olympic Village). Service runs from aprox. 5 AM until past midnight (Mon-Sat) and from aprox. 7 AM until past 11 PM on sundays.</p><p>For more information, please visit <a href="http://www.londoncityairport.com/visitingtheairport/page/publictransport">http://www.londoncityairport.com/visitingtheairport/page/publictransport</a>.]]></string>
+    <string name="tube_company">Piccadilly line (London Underground)</string>
+    <string name="tube_desc"><![CDATA[<p>The Piccadilly line is part of the London Underground network.</p><p>Heathrow has 3 London Underground stations - one for Terminals 1, 2 and 3, and one each at Terminal 4 and Terminal 5. Heathrow Terminals 1, 2, 3 station is in the central area between the terminals, which are a few minutes\' walk away via underground walkways. Terminal 4 and Terminal 5 stations are in the basements of the terminal buildings. All stations are in Travelcard Zone 6.</p><p>Journey time to/from Central London is under an hour and you shouldn\'t have to wait longer than 10 minutes for a train, even off-peak. Service runs from aprox. 5 AM until past 11 PM (Mon-Sun).</p><p>For more information, please visit <a href="http://www.heathrowairport.com/transport-and-directions/underground">http://www.heathrowairport.com/transport-and-directions/underground</a>.]]></string>
+    <string name="FCC">First Capital Connect</string>
+    <string name="SOUTHERN">Southern Railways</string>
+    <string name="EM">East Midlands Trains</string>
+    <string name="GTW_EXPRESS">Gatwick Express</string>
+    <string name="GA">Greater Anglia</string>
+    <string name="SSD_EXPRESS">Stansted Express (Greater Anglia)</string>
+    <string name="HXX_EXPRESS">Heathrow Express</string>
+    <string name="H_CONNECT">Heathrow Connect</string>
+</resources>

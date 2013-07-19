@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Initial palette -->
+    <color name="green">#6e8f4a</color>
+    <color name="blue">#65d9c5</color>
+    <color name="cream">#f2e7b6</color>
+    <color name="yellow">#eda430</color>
+    <color name="red">#ab3e2c</color>
+    
+    <!-- along amongst the crowds palette -->
+    <color name="alone_crowds_1">#D0EDDE</color>
+    <color name="alone_crowds_2">#A2BAB0</color>
+    <color name="alone_crowds_3">#8FA89B</color>
+    <color name="alone_crowds_4">#678C8B</color>
+    <color name="alone_crowds_5">#B3B597</color>
+
+    <!-- beach storm palette -->
+    <color name="beach_storm_1">#2D4761</color>
+    <color name="beach_storm_2">#45718C</color>
+    <color name="beach_storm_3">#314650</color>
+    <color name="beach_storm_4">#B6E1F2</color>
+    <color name="beach_storm_5">#D9C6B0</color>
+    
+    <!--  Chantal Shades blue -->
+    <color name="shades_blue_1">#CAE1EC</color>
+    <color name="shades_blue_2">#83A1AF</color>
+    <color name="shades_blue_3">#367696</color>
+    <color name="shades_blue_4">#316B87</color>
+    <color name="shades_blue_5">#2C5F78</color>
+        
+    <!-- actual selection of colors -->
+    <color name="bodyTextColor">#000000</color>
+    <color name="actionBarTextColor">#FFFFFF</color>
+    <color name="backgroundColor">#eaeaea</color>
+    <color name="titleBackgroundColor">@color/beach_storm_1</color>
+    <color name="highlightColor">@color/beach_storm_4</color>
+    <color name="inactiveColor">@color/beach_storm_2</color>
+</resources>

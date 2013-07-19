@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tube">Piccadilly line (tube)</string>
+    <string name="PAD" >Paddington (PAD)</string>
+    <string name="EPH" >Elephant and Castle (EPH)</string>
+    <string name="LBG" >London Bridge (LBG)</string>
+    <string name="BFR" >London Blackfriars (BFR)</string>
+    <string name="CTK" >City Thameslink (CTK)</string>
+    <string name="ZFD" >Farringdon (ZFD)</string>
+    <string name="STP" >London St Pancras International (STP)</string>
+    <string name="VIC" >London Victoria (VIC)</string>
+    <string name="LST" >London Liverpool Street (LST)</string>
+    <string name="DLR" >DLR line (DLR)</string>
+    
+    <string-array name="stations_all">
+        <item >@string/tube</item>
+        <item >@string/PAD</item>
+        <item >@string/EPH</item>
+   		<item >@string/LBG</item>
+        <item >@string/BFR</item>
+        <item >@string/CTK</item>
+        <item >@string/ZFD</item>
+        <item >@string/STP</item>
+        <item >@string/VIC</item>
+        <item >@string/LST</item>
+        <item >@string/DLR</item>
+    </string-array>
+    
+    <string-array name="stations_heathrow">
+        <item >@string/tube</item>
+        <item >@string/PAD</item>
+    </string-array>
+    <string-array name="stations_gatwick">
+        <item >@string/EPH</item>
+        <item >@string/LBG</item>
+        <item >@string/BFR</item>
+        <item >@string/CTK</item>
+        <item >@string/ZFD</item>
+        <item >@string/STP</item>
+        <item >@string/VIC</item>
+    </string-array>
+    <string-array name="stations_luton">
+        <item >@string/STP</item>
+        <item >@string/ZFD</item>
+        <item >@string/CTK</item>
+        <item >@string/BFR</item>
+        <item >@string/LBG</item>
+        <item >@string/EPH</item>
+    </string-array>
+    <string-array name="stations_stansted">
+        <item >@string/LST</item>
+    </string-array>
+    <string-array name="stations_city">
+        <item >@string/DLR</item>
+    </string-array>
+    <string-array name="stations_southend">
+        <item >@string/LST</item>
+    </string-array>
+</resources>

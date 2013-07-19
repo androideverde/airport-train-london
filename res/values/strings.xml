@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Airport Train London</string>
+    <string name="copyright">Data taken from London airports and train companies</string>
+    <string name="txt_airport">Airport:</string>
+    <string name="txt_station">Train Station:</string>
+    <string name="london_to_airport">London to Airport</string>
+    <string name="airport_to_london">Airport to London</string>
+    <string name="show_map">Show in map</string>
+    <string name="about">About</string>
+    <string name="select_airport">Select your airport</string>
+    <string name="select_station">Select your train station</string>
+    <string name="app_signature">Airport Train London v1.0</string>
+    <string name="author">&#169; Jordi Bernabeu (@androideverde), 2012</string>
+    <string name="txt_about">This app shows train timetables in the routes to and from the various London airports. Only shows train stations in Central London, even though some routes might have more stops. It works without internet connection, with offline info from the train companies and is intended as a help for travellers. I hope you find it as useful as it is for me!</string>
+    <string name="app_logo">App logo</string>
+    <string name="stationlist_title">To/From %s</string>
+    <string name="abar_menu_week">Weekday</string>
+    <string name="abar_menu_sat">Saturday</string>
+    <string name="abar_menu_sun">Sunday</string>
+    <string name="abar_title_week">Weekday trains</string>
+    <string name="abar_title_sat">Saturday trains</string>
+    <string name="abar_title_sun">Sunday trains</string>
+    <string name="detail_description">Check online for updated info:</string>
+    <string name="emptylist">No data to show!</string>
+</resources>

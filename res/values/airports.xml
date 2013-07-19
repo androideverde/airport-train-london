@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="airports">
+        <item >Heathrow (LHR)</item>
+        <item >Gatwick (LGW)</item>
+        <item >Luton (LTN)</item>
+        <item >Stansted (STN)</item>
+        <item >London City (LCY)</item>
+        <item >Southend (SEN)</item>
+    </string-array>
+    <string-array name="airport_stations">
+        <item >Heathrow Airport Terminals 1, 2 and 3 (HXX)</item>
+        <item >Gatwick Airport (GTW)</item>
+        <item >Luton Airport Parkway (LTN)</item>
+        <item >Stansted Airport (SSD)</item>
+        <item >London City Airport</item>
+        <item >Southend Airport (SIA)</item>
+    </string-array>
+    
+</resources>

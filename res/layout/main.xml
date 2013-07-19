@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtAirport"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_airport" />
+
+    <Spinner
+        android:id="@+id/spnAirport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/airports"
+        android:prompt="@string/select_airport" />
+
+    <TextView
+        android:id="@+id/txtStation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_station" />
+
+    <Spinner
+        android:id="@+id/spnStation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/stations_heathrow"
+        android:prompt="@string/select_station" />
+
+    <Button
+        android:id="@+id/btnLondonToAirport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/london_to_airport" />
+
+    <Button
+        android:id="@+id/btnAirportToLondon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/airport_to_london" />
+
+    <Button
+        android:id="@+id/btnShowMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_map" />
+
+    <Button
+        android:id="@+id/btnAbout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/about" />
+
+    <TextView
+        android:id="@+id/copyright"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/copyright" />
+
+</LinearLayout>
